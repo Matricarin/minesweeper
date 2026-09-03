@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/core/">
+    <Project Path="src/core/Minesweeper.Core/Minesweeper.Core.csproj" />
+  </Folder>
+  <Folder Name="/src/ui/">
+    <Project Path="src/ui/Minesweeper.ConsoleApp/Minesweeper.ConsoleApp.csproj" />
+    <Project Path="src/ui/Minesweeper.UiApp/Minesweeper.UiApp.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Minesweeper.Test/Minesweeper.Test.csproj" />
+  </Folder>
+</Solution>
