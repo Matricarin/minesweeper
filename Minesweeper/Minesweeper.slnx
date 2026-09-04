@@ -5,7 +5,7 @@
   </Folder>
   <Folder Name="/src/ui/">
     <Project Path="src/ui/Minesweeper.ConsoleApp/Minesweeper.ConsoleApp.csproj" />
-    <Project Path="src/ui/Minesweeper.UiApp/Minesweeper.UiApp.csproj" />
+    <Project Path="src/ui/Minesweeper.UiApp/Minesweeper.UiApp.csproj" Id="50662d2b-8ea0-42a0-b375-749a57204601" />
   </Folder>
   <Folder Name="/test/">
     <Project Path="test/Minesweeper.Test/Minesweeper.Test.csproj" />
