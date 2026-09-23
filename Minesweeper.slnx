@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Minesweeper.Core/Minesweeper.Core.csproj" Id="45ccf28e-b0b7-41d6-9c38-a03f7b89a1fd" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Minesweeper.UnitTest/Minesweeper.UnitTest.csproj" Id="70f3570f-667a-4151-a2a1-a5ff44c86e86" />
+  </Folder>
 </Solution>
